@@ -1,1 +1,8 @@
-# Virat-Kohli-Performance-Analysis
+
+Project Summary: Analyzing Virat Kohli's Cricket Career
+
+This project delves into the illustrious cricket career of Virat Kohli, one of the modern era's most celebrated batsmen. Leveraging the power of data analysis tools like Power BI and Excel, this project aims to provide a comprehensive overview of Kohli's performance across various formats of the game.
+The project begins with gathering comprehensive data on Virat Kohli's career spanning multiple formats including Test matches, One Day Internationals (ODIs), and Twenty20 Internationals (T20Is). Data includes batting statistics, match details, runs, opponents, and more.
+Using Power BI and Excel, the project conducts in-depth analysis of Kohli's performance metrics over time. Key performance indicators such as batting average, centuries, half-centuries, and match outcomes are analyzed to unveil patterns and trends in Kohli's career trajectory.
+A visually appealing and user-friendly dashboard is developed to present the analyzed data in an intuitive manner. The dashboard provides interactive visualizations and insights into various aspects of Kohli's career, allowing users to explore his performance metrics across different formats, against different opponents.
+Through meticulous data analysis and visualization techniques, this project offers a comprehensive exploration of Virat Kohli's cricket career. By leveraging the capabilities of Power BI and Excel, the project provides valuable insights into the batting prowess and performance dynamics of one of cricket's modern legends. Whether you're a cricket enthusiast, a sports analyst, or a data aficionado, this project serves as a fascinating journey into the statistical realm of cricketing excellence embodied by Virat Kohli.
